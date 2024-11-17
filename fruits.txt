@@ -1,3 +1,5 @@
-Pear
+Lemon
 Banana
 Mango
+Apple
+Citron
